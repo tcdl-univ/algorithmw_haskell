@@ -9,6 +9,6 @@ In this paper we develop a complete implementation of the classic algorithm W fo
 
 ##Paper
 
-[paper](http://uebb.cs.tu-berlin.de/~magr/pub/AlgorithmW.pdf) Algorithm W Step by Step by  Martin Grabmüller.
+[Paper Algorithm W Step by Step by  Martin Grabmüller](http://uebb.cs.tu-berlin.de/~magr/pub/AlgorithmW.pdf).
 
-[entry on CiteSeer](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.65.7733)entry on CiteSeer.
+[Entry on CiteSeer](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.65.7733).
